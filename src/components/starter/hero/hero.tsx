@@ -1,6 +1,7 @@
 import { component$ } from "@builder.io/qwik";
 import styles from "./hero.module.css";
 import ImgThunder from "~/media/thunder.png?jsx";
+import { Link } from "@builder.io/qwik-city";
 
 export default component$(() => {
   return (
@@ -69,13 +70,13 @@ export default component$(() => {
         >
           Time to celebrate
         </button>
-        <a
+        <Link
           href="https://qwik.builder.io/docs"
           target="_blank"
           class="button button-dark"
         >
           Explore the docs
-        </a>
+        </Link>
       </div>
     </div>
   );
