@@ -25,7 +25,6 @@
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@auth/core": "^0.7.1",
     "@builder.io/qwik": "^1.2.2",
     "@builder.io/qwik-city": "^1.2.2",
     "@prisma/client": "4.16.1",
