@@ -27,7 +27,6 @@
   "devDependencies": {
     "@builder.io/qwik": "^1.2.2",
     "@builder.io/qwik-city": "^1.2.2",
-    "@prisma/client": "4.16.1",
     "@types/eslint": "8.40.2",
     "@types/node": "^20.3.1",
     "@typescript-eslint/eslint-plugin": "5.60.0",
